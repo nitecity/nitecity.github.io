@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjQwMjIyMywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGU4MjYzZWNjM2Q1MTFjMWRkNDIyYTVhOTAwNzJhODcxODAyMWQ5ZjQifQ",
+    "payload": "eyJkb21haW4iOiJuaXRlY2l0eS5naXRodWIuaW8ifQ",
+    "signature": ""
+  },
+  "frame": {
+    "name": "justtest",
+    "version": "1",
+    "iconUrl": "https://placehold.co/600x314/E8A400/white?text=State+1",
+    "homeUrl": "https://nitecity.github.io",
+    "imageUrl": "https://placehold.co/600x314/E8A400/white?text=State+1",
+    "buttonTitle": "start",
+    "splashImageUrl": "https://nitecity.github.io/splash.png",
+    "splashBackgroundColor": "#ffffff",
+    "webhookUrl": "https://nitecity.github.io/api/webhook"
+  }
+}
