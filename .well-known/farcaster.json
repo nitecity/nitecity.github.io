@@ -7,11 +7,11 @@
   "frame": {
     "name": "justtest",
     "version": "1",
-    "iconUrl": "https://placehold.co/600x314/E8A400/white?text=State+1",
+    "iconUrl": "https://nitecity.github.io/cat.png",
     "homeUrl": "https://nitecity.github.io",
     "imageUrl": "https://placehold.co/600x314/E8A400/white?text=State+1",
     "buttonTitle": "start",
-    "splashImageUrl": "https://nitecity.github.io/splash.png",
+    "splashImageUrl": "https://nitecity.github.io/splashimage/Metaverse.png",
     "splashBackgroundColor": "#ffffff",
     "webhookUrl": "https://nitecity.github.io/api/webhook"
   }
