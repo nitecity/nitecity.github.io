@@ -28,6 +28,7 @@ async function start(){
         const socket = new WebSocket(uri);
         socket.onopen = () => {
             console.log('Connected to server');
+            sym.textContent = 'Getting data...';
         };
 
         socket.onmessage = (event) => {
