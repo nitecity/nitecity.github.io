@@ -1,0 +1,12 @@
+{
+  "frame": {
+    "version": "next",
+    "name": "Best Bid Ask",
+    "iconUrl": "https://du.aldecaldos.org/logo.png",
+    "homeUrl": "https://du.aldecaldos.org/",
+    "imageUrl": "https://du.aldecaldos.org/logo.png",
+    "buttonTitle": "Start",
+    "splashImageUrl": "https://du.aldecaldos.org/logo.png",
+    "splashBackgroundColor": "#1a1a1a",
+  }
+}
