@@ -1,5 +1,5 @@
 import { sdk } from 'https://esm.sh/@farcaster/frame-sdk';
-await sdk.actions.ready();
+
 const startButton = document.getElementById("start");
 const stopButton = document.getElementById("stop");
 const askPrice = document.getElementById("askPrice");
@@ -131,3 +131,5 @@ alarmEmoji.addEventListener('click', function () {
         alarmEmoji.innerText = '🔊';
     }
 })
+
+await sdk.actions.ready();
