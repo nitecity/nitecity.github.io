@@ -1,3 +1,5 @@
+import { sdk } from 'https://esm.sh/@farcaster/frame-sdk';
+await sdk.actions.ready();
 const startButton = document.getElementById("start");
 const stopButton = document.getElementById("stop");
 const askPrice = document.getElementById("askPrice");
