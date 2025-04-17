@@ -1,4 +1,9 @@
 {
+    "accountAssociation": {
+    "header": "eyJmaWQiOjQwMjIyMywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGU4MjYzZWNDM2Q1MTFjMURkNDIyQTVBOTAwNzJhODcxODAyMWQ5RjQifQ",
+    "payload": "eyJkb21haW4iOiJuaXRlY2l0eS5naXRodWIuaW8ifQ",
+    "signature": "MHg4ZjVmNTg0ZmI3NDkzYzFjOGM4NTczOGNlNDQ0YWVkNDY1NzU0YTA1ZWIyNmZlY2I3NzRjM2FjM2UxNjFjODIxNDNjMTljMzljNTUwZTYzMzNlZGQ5YWQ2MTNmOWI1ZTQyNTNmNzA4MzM1NDQwOGNmODlkOGIxZDQyZjkyNzlkNzFj"
+  },
     "frame": {
       "version": "1",
       "name": "Best Bid Ask",
