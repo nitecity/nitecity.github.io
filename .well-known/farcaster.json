@@ -2,11 +2,11 @@
     "frame": {
       "version": "next",
       "name": "Best Bid Ask",
-      "iconUrl": "https://du.aldecaldos.org/logo.png",
-      "homeUrl": "https://du.aldecaldos.org/",
-      "imageUrl": "https://du.aldecaldos.org/logo.png",
+      "iconUrl": "https://nitecity.github.io/logo.png",
+      "homeUrl": "https://nitecity.github.io/",
+      "imageUrl": "https://nitecity.github.io/logo.png",
       "buttonTitle": "Start",
-      "splashImageUrl": "https://du.aldecaldos.org/logo.png",
+      "splashImageUrl": "https://nitecity.github.io/logo.png",
       "splashBackgroundColor": "#1a1a1a"
     }
 }
